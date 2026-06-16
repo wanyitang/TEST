@@ -1,9 +1,8 @@
-# TEST
-This a test repository for LA's BeST program  
+# CODE for personal token
 
-install.packages("usethis")
-install.packages("gitcreds")
-usethis::create_github_token()
+install.packages("usethis")     
+install.packages("gitcreds")       
+usethis::create_github_token()            
 
 
 gitcreds::gitcreds_set()
